@@ -6,6 +6,3 @@
 ### Schedule
 - 01/31~2/4 EDA
   - ex.ipynp
-- 
-
-### code
